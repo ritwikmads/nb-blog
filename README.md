@@ -2,6 +2,4 @@
 
 Personal Blog of Nilutpal Boruah/Ritwik Madhukalya
 
-This is a complete personal website.
-
-Not for others to commit
+This is a complete personal websit
