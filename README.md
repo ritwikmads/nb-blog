@@ -1,3 +1,3 @@
 # nb-blog
 
-Personal Blog of Nilutpal Boruah
+Personal Blog of Nilutpal Boruah/Ritwik Madhukalya
